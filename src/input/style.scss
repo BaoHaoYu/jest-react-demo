@@ -1,0 +1,12 @@
+.inputBox {
+    display: flex;
+    align-items: baseline;
+
+    &__label {
+        margin-right: 3px;
+    }
+
+    &__input {
+        padding: 5px;
+    }
+}
